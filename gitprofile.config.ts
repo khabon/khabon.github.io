@@ -33,7 +33,7 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Project Name',
+          title: 'microbiome-tutorial',
           description:
             'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
           imageUrl:
@@ -41,7 +41,7 @@ const CONFIG = {
           link: 'https://example.com',
         },
         {
-          title: 'Project Name',
+          title: 'genomeanalysis',
           description:
             'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
           imageUrl:
