@@ -52,7 +52,7 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Kimberly Habon Website,
+    title: 'Kimberly Habon Website',
     description: '',
     imageURL: '',
   },
@@ -80,7 +80,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://github.com/khabon/khabon.github.io/raw/main/KimCV.pdf, // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'PHP',
