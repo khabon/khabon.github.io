@@ -52,7 +52,7 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Kimberly Habon Website',
+    title: 'kimberly habon website'
     description: '',
     imageURL: '',
   },
