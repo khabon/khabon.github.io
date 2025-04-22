@@ -80,7 +80,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://github.com/khabon/khabon.github.io/raw/main/KimCV.pdf, // Empty fileUrl will hide the `Download Resume` button.
+      'https://github.com/khabon/khabon.github.io/raw/main/KimCV.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'PHP',
