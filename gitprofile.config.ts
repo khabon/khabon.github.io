@@ -83,20 +83,10 @@ const CONFIG = {
       'https://github.com/khabon/khabon.github.io/raw/main/KimCV.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
-    'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
-    'MySQL',
-    'PostgreSQL',
-    'Git',
-    'Docker',
-    'PHPUnit',
-    'CSS',
-    'Antd',
-    'Tailwind',
+    'laboratory techniques',
+    'histology techniques',
+    'Bioinformatics',
+  
   ],
   experiences: [
     {
@@ -124,16 +114,16 @@ const CONFIG = {
   ],
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'California State University Stanislaus',
+      degree: 'Bachelor of Arts in Biological Sciences',
+      from: '2022',
+      to: '2025',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'Merced College',
+      degree: 'Associate in Arts in Social and Behavorial Sciences',
+      from: '2019',
+      to: '2021',
     },
   ],
   publications: [
