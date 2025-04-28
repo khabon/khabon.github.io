@@ -92,7 +92,7 @@ const CONFIG = {
     {
       company: 'Los Banos Unified School District ',
       position: 'Substitute Teacher',
-      from: 'September 2021',
+      from: 'August 2023',
       to: 'Present',
       companyLink: '',
     },
