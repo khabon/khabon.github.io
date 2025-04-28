@@ -90,18 +90,18 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
+      company: 'Los Banos Unified School District ',
+      position: 'Substitute Teacher',
       from: 'September 2021',
       to: 'Present',
-      companyLink: 'https://example.com',
+      companyLink: '',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'Walmart',
+      position: 'Stocking Associate',
+      from: 'April 2021',
+      to: 'July 2024',
+      companyLink: '',
     },
   ],
   certifications: [
