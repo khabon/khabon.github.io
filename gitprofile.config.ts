@@ -35,7 +35,7 @@ const CONFIG = {
         {
           title: 'Genetic Biotechnology:Parkinsons Disease',
           description:
-            'CRISPR study on Parkinson's Disease',
+            'CRISPR study on Parkinsons Disease',
           imageUrl:
             'https://github.com/khabon/khabon.github.io/raw/main/Screen%20Shot%202025-04-30%20at%209.05.48%20AM.png',
           link: 'https://github.com/khabon/khabon.github.io/raw/main/CRISPRinParkinsons',
