@@ -37,16 +37,16 @@ const CONFIG = {
           description:
             'CRISPR study on Parkinson's Disease',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://github.com/khabon/khabon.github.io/raw/main/Screen%20Shot%202025-04-30%20at%209.05.48%20AM.png',
+          link: 'https://github.com/khabon/khabon.github.io/raw/main/CRISPRinParkinsons,
         },
         {
-          title: 'Project Name',
+          title: 'How Weather and Climate Affect Snail Activity',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Study on how environmental factors such as weather affect snail acitivity',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+          link: '',
         },
       ],
     },
