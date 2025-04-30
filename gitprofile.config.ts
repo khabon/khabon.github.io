@@ -38,7 +38,7 @@ const CONFIG = {
             'CRISPR study on Parkinsons Disease',
           imageUrl:
             'https://github.com/khabon/khabon.github.io/raw/main/Screen%20Shot%202025-04-30%20at%209.05.48%20AM.png',
-          link: 'https://github.com/khabon/khabon.github.io/blob/main/Kimberly%20Habon's%20Genetic%20Biotechnology%20Presentation.pdf',
+          link: 'https://github.com/khabon/khabon.github.io/raw/main/Kimberly%20Habon's%20Genetic%20Biotechnology%20Presentation.pdf',
         },
         {
           title: 'How Weather and Climate Affect Snail Activity',
