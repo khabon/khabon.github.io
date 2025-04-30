@@ -33,7 +33,7 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Genetic Biotechnology:Parkinson's Disease',
+          title: 'Genetic Biotechnology:Parkinsons Disease',
           description:
             'CRISPR study on Parkinson's Disease',
           imageUrl:
