@@ -128,13 +128,13 @@ const CONFIG = {
   ],
   publications: [
     {
-      title: 'Publication Title',
+      title: 'Draft genome sequence Chryseobacterium treverense isolated from human clincal sources',
       conferenceName: '',
-      journalName: 'Journal Name',
-      authors: 'John Doe, Jane Smith',
+      journalName: 'Microbiology Resource Anouncement',
+      authors: 'Analisa Coppens, Isabella Fregoso, Rachel Haakma, Kimberly Habon, Grace Rodrigues, Tricia Van Laar',
       link: 'https://example.com',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+        'We report the draft genome sequence of Chryseobacterium treverense is isolated from human clinical sources.  The genome is 2,379,279 base pairs and contains genes enhancing bacterium survival and evasion of the host’s immune system, therefore amplifying broad antibiotic resistance.',
     },
     {
       title: 'Publication Title',
