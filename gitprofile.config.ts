@@ -132,7 +132,7 @@ const CONFIG = {
       conferenceName: '',
       journalName: 'Microbiology Resource Anouncement',
       authors: 'Analisa Coppens, Isabella Fregoso, Rachel Haakma, Kimberly Habon, Grace Rodrigues, Tricia Van Laar',
-      link: 'https://example.com',
+      link: 'https://github.com/khabon/khabon.github.io/raw/main/Chryseobacteriumtreverensefinaldraft%20-2-1.pdf,
       description:
         'We report the draft genome sequence of Chryseobacterium treverense is isolated from human clinical sources.  The genome is 2,379,279 base pairs and contains genes enhancing bacterium survival and evasion of the host’s immune system, therefore amplifying broad antibiotic resistance.',
     },
